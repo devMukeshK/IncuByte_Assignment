@@ -15,6 +15,8 @@ build/
 !default.perspectivev3
 xcuserdata
 *.xccheckout
+*.xcworkspacedata
+*.plist
 *.moved-aside
 DerivedData
 *.hmap
